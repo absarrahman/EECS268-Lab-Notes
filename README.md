@@ -20,8 +20,8 @@ This section will be divided into few parts.
 3. Stage your changes
 4. Commit your changes
 
-## Side notes
+## Side note
 
-Please read the instructions. If you are not clear about the instructions, watch the video which 
-is attached with the URL.
+Please read the instructions. If you are not clear about the instructions, watch [this video]()
+// TODO: Video not uploaded yet. Add video url
 
