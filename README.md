@@ -22,6 +22,6 @@ This section will be divided into few parts.
 
 ## Side note
 
-Please read the instructions. If you are not clear about the instructions, watch [this video]()
+Please read the instructions. If you are not clear about the instructions, watch [this video](https://youtu.be/dQw4w9WgXcQ?si=7ev_8Q3Z2kdzse5i)
 // TODO: Video not uploaded yet. Add video url
 
