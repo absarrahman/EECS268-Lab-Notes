@@ -6,7 +6,9 @@ This repo is focused on providing important notes which can be beneficial for th
 
 - [Setting up Git and Github](#setting-up-git-and-github)
     - [Side note](#side-note)
-
+    - [GitHub setup](#github-setup)
+- [Semesters](#semesters)
+    - [Fall 25](#fall-25)
 
 # Setting up Git and Github
 
@@ -25,3 +27,11 @@ This section will be divided into few parts.
 Please read the instructions. If you are not clear about the instructions, watch [this video](https://youtu.be/dQw4w9WgXcQ?si=7ev_8Q3Z2kdzse5i)
 // TODO: Video not uploaded yet. Add video url
 
+## GitHub setup
+- [Written notes (GH app)](https://wiki.ittc.ku.edu/ittc_wiki/index.php?title=EECS168:Lab1#Exercise_0)
+- [Video (Works on all platforms)](https://youtube.com/playlist?list=PLwxSn5MMaL_M-2kV8zjoBh1sTK6b5sibk&si=U8Aen6VFBLsnpRqX)
+- [YouTube tutorial](https://youtu.be/8JJ101D3knE?si=A-5Cm2t238YaW9Vx)
+
+
+# Semesters
+- ## [Fall 25]()
