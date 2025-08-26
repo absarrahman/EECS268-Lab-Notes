@@ -34,4 +34,4 @@ Please read the instructions. If you are not clear about the instructions, watch
 
 
 # Semesters
-- ## [Fall 25]()
+- ## [Fall 25](./fall_25/README.md)
