@@ -1,5 +1,8 @@
-from executive import Executive
+
 # NOTE: All these are pseudo code for the lab 1 just to give you the idea of how the flow will work
+# Name: [Your name]
+# SID: [Your student id]
+from executive import Executive
 def main():
 
   # take file name as an input from the user :> file_name = input("Enter the name of the input file: ")
