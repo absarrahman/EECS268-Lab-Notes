@@ -4,6 +4,7 @@
 
 - For Python basics
     - [YT-Programming with Mosh](https://youtu.be/_uQrJ0TkZlc?si=_mKR8yly8KR558ZL)
+    - [Official documentation](https://docs.python.org/3/tutorial/index.html)
 
 - For I/O basics
     - [EECS 168 Lab 04](https://wiki.ittc.ku.edu/ittc_wiki/index.php?title=EECS168:Lab4)
