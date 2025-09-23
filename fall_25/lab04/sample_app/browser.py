@@ -7,7 +7,7 @@ class Browser:
       pass
 
     def navigate_to(self, url):
-      # you need to iterate from site and remove the urls
+      # you need to iterate from site index and remove the urls
       # after that insert and increment your index
       pass
 
